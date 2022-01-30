@@ -7,13 +7,13 @@
 ## Technologies Used:
 
  Language : Python <br>
- Data Cleaning : Numpy and OpenCV
- Data Visualisation : Matplotlib & Seaborn
- Model Building : Sklearn for model building
- Server : Python Flask
- UI : HTML/CSS/UI
- IDE : Jupyter notebook, visual studio code and pycharm as IDE
- Deployment : AWS
+ Data Cleaning : Numpy and OpenCV <br>
+ Data Visualisation : Matplotlib & Seaborn <br>
+ Model Building : Sklearn for model building <br>
+ Server : Python Flask <br>
+ UI : HTML/CSS/UI <br>
+ IDE : Jupyter notebook, visual studio code and pycharm as IDE <br>
+ Deployment : AWS <br>
 
 
 ## Data Collection:
