@@ -6,7 +6,7 @@
 
 ## Technologies Used:
 
- Language : Python
+ Language : Python <br>
  Data Cleaning : Numpy and OpenCV
  Data Visualisation : Matplotlib & Seaborn
  Model Building : Sklearn for model building
